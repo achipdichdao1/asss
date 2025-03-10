@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/web/views/login.jsp</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/web/views/checkout.jsp</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/dao/ProductDAO.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/fillter/AuthorizationFilter.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/controller/AuthController.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/dao/OrderDAO.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/model/OrderDetail.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/model/Product.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/web/assets/css/style.css</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/dao/UserDAO.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/web/views/home.jsp</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/web/components/footer.jsp</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/model/Cart.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/controller/ProductController.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/utils/Validator.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/model/User.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/controller/UserDAO.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/model/Customer.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/model/Order.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/web/views/order-confirmation.jsp</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/controller/CartController.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/utils/DBContext.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/web/views/product-detail.jsp</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/web/index.html</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/controller/CheckoutController.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/src/java/controller/HomeController.java</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/web/views/product-list.jsp</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/web/views/cart.jsp</file>
+            <file>file:/C:/Users/hoang/OneDrive/Documents/NetBeansProjects/EssentialOilsShop/web/components/header.jsp</file>
+        </group>
+    </open-files>
+</project-private>
